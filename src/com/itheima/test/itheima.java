@@ -4,7 +4,7 @@ import java.sql.Date;
 
 public class itheima {
 	public void test() {
-		System.out.println("我们都是好孩子");
+		System.out.println("我们都是下面的好孩子");
 		/*给建议，ctrl+1，根据右边生成左边的数据类型，生成方法
 		 * 删除代码ctrl+d
 		 * 单行注释ctrl+/，多行注释ctrl+shift+/，取消多行注释ctrl+shift+右斜杠
